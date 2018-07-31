@@ -1,0 +1,27 @@
+{
+  "name": "qui",
+  "version": "0.0.1",
+  "description": "不常用的UI组件库",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.9.7",
+    "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  },
+  "scripts": {
+    "start": "parcel demo1/index.html -p 8090",
+    "parcel:build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AglaiaWang/QUI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AglaiaWang/QUI/issues"
+  },
+  "homepage": "https://github.com/AglaiaWang/QUI#readme"
+}
